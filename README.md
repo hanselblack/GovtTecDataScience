@@ -18,4 +18,4 @@ Run using python 3
 python3 analysis.py
 ```
 
-This will generate out the output.txt which shows the grouping of the duration of the time.
+This will generate out the output.txt which shows the grouping of the duration of the trip. This data is used to craft out the network for question1.
